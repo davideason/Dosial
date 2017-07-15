@@ -1,0 +1,1 @@
+C:\source\GIT\Social\Dosial\WebUI\Dosial.Web.UI\Dosial.Web.Models\obj\Debug\Dosial.Web.Models.csprojResolveAssemblyReference.cache

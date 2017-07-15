@@ -1,0 +1,5 @@
+C:\source\GIT\Social\Dosial\WebUI\Dosial.Web.UI\Ouvera.Utilities.ModelTracking\bin\Debug\Ouvera.Utilities.ModelTracking.dll
+C:\source\GIT\Social\Dosial\WebUI\Dosial.Web.UI\Ouvera.Utilities.ModelTracking\bin\Debug\Ouvera.Utilities.ModelTracking.pdb
+C:\source\GIT\Social\Dosial\WebUI\Dosial.Web.UI\Ouvera.Utilities.ModelTracking\obj\Debug\Ouvera.Utilities.ModelTracking.csprojResolveAssemblyReference.cache
+C:\source\GIT\Social\Dosial\WebUI\Dosial.Web.UI\Ouvera.Utilities.ModelTracking\obj\Debug\Ouvera.Utilities.ModelTracking.dll
+C:\source\GIT\Social\Dosial\WebUI\Dosial.Web.UI\Ouvera.Utilities.ModelTracking\obj\Debug\Ouvera.Utilities.ModelTracking.pdb
